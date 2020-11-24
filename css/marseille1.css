@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+.history{
+	background: url(../img/vieux.jpg);
+}
+
+
+.histoire{
+	
+
+}
+
+.presentation {
+	margin-top: 5vh;
+	padding: 10vh;
+}
+
+.prem { 
+	padding:15vh;
+	justify-content: space-between;
+}
+
+.histoire img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 60vh;
+}
+
+.prem-title{
+	text-align: center;
+	font-size: 4.5em;
+	font-weight: bold;
+	font-style: italic;
+	font-family: 'Nerko One', cursive;
+
+}
+
+.box{
+	
+}
+
+.story{
+  width: 90%;
+  background-color: #D0F3F4;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+  box-shadow: 2px 9px 34px 33px rgba(0,0,0,0.75);
+  color: #5E6666;
+}
+.story p {
+	margin-top: 2.5vh;
+	font-size: 1.5em;
+	text-align: center;
+	font-family: sans-serif;
+	color: black;
+}
+
+.story-title {
+	text-align: center;
+	font-size: 2.5em;
+	font-weight: bold;
+	font-style: italic;
+	color: white;
+	background: black;
+	width: 50vh;
+
+}

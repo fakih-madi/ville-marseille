@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.rando-cover{
+	background: url(../img/calanque-cover.jpg);
+}
+
+
+.rando-top{
+	margin-top: 25vh;
+}
+
+.rando-title{
+	text-align: center;
+	font-size: 3.5em;
+	margin-bottom: 6vh;
+}
+
+
+.rando{
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.top{
+    width: 30%;
+    margin: 1%;
+    padding: 0.5%;
+}
+
+.toptitle{
+	text-align: center;
+	color: white;
+	font-size: 1.6em;
+	font-style: italic;
+	font-family: 'Permanent Marker', cursive;
+	text-shadow: 6px -1px 7px rgba(150, 150, 150, 1);
+}
+
+.top-img {
+	max-width: 85%;
+	max-height: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 0.5%;
+    border: 1px solid black;
+}
+
+.gps{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 15%;
+
+}
